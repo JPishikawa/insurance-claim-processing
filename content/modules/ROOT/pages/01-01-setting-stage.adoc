@@ -1,19 +1,18 @@
 = Setting the stage
 include::_attributes.adoc[]
 
-In order to make this lab seem more realistic, we will be describing this imaginary scenario.
+このラボをより現実的なものにするために、架空のシナリオを設定します。
 
 == Situation
 :slide:
 
-* We all work for a large multi-national insurance company
-** Our company is in the midst of digital transformation
-** It is looking at modernizing practices and leveraging new technologies
-* A small team was asked to:
-** review the way insurance claims are currently being processed
-** provide advice on potential improvements
-* That team is currently very small (about 4 people)
-** Findings will be presented to the board
-** If they are convincing, the team will be granted the resources to implement the recommendations
-* The next sections in this chapter are the materials that were presented to the board
-
+* 私たちは複数の国でビジネスを展開する大手の保険会社で働いています。
+** 私たちの会社はデジタルトランスフォーメーションの真っ最中です。
+** 業務の近代化と新技術の活用を検討しています。
+* そのため少人数のチームを作成し以下を行います：
+** 保険金請求の現在の処理方法を見直すこと。
+** 改善の可能性についてアドバイスを提供すること。
+* そのチームは現在非常に小規模です。（4人程度）
+** 調査結果は取締役会に提出されます。
+** 納得のいくものであれば、チームは提案内容を実行するためのリソースを与えられます。
+* 次のセクションは、理事会に提出された資料です。
